@@ -1,15 +1,22 @@
 <template>
-    <div></div>
+    <div>
+
+    </div>
 </template>
 
 <script>
     export default {
-        data() {
-            return {};
+        data () {
+            return {
+
+            };
         },
-        components: {}
+        components: {
+
+        }
     };
 </script>
 
-<style>
+<style lang="stylus" ref=stylessht/stylus>
+
 </style>

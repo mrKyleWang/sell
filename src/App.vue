@@ -1,6 +1,7 @@
 <template>
     <div id="app">
-        <header></header>
+
+        <Head></Head>
         <div class="tab">
             I am tab!
         </div>
@@ -11,10 +12,10 @@
 </template>
 
 <script>
-    import Header from './components/header/Header.vue';
+    import Head from './components/header/Head.vue';
     export default {
         components: {
-            Header
+            Head
         }
     };
 </script>

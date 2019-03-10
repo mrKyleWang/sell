@@ -1,6 +1,6 @@
 <template>
-    <div class="header">
-        我是header
+    <div class="head">
+        我是head
     </div>
 </template>
 
@@ -13,5 +13,5 @@
     };
 </script>
 
-<style>
+<style lang="stylus" ref=stylessht/stylus>
 </style>
